@@ -1,0 +1,1 @@
+{"uuid":"b56f359e-cce5-472a-94eb-aa9b96d251db","name":"TestCases.RegisterUserWithExistingEmail","children":["1354150a-ebf3-4c7c-8732-99d572804bc5"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725059971806,"stop":1725059979376}],"afters":[],"start":1725059971638,"stop":1725060001663}
