@@ -1,1 +1,0 @@
-{"uuid":"71ae7af8-f689-4a8b-80e9-4f9f1b995d7f","name":"TestCases.VerifySubscriptionInHomePage","children":["e38fb1c0-bc98-4faf-8ce3-899fee53a37a"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725077912318,"stop":1725077918544}],"afters":[],"start":1725077912235,"stop":1725077923099}

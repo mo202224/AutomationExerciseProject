@@ -1,1 +1,0 @@
-{"uuid":"68535897-4fed-4e65-aac1-f00e296ab4b6","name":"TestCases.LogoutUser","children":["f0e27f26-32e9-484e-9872-12a1d30812a1"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725057866865,"stop":1725057873957}],"afters":[],"start":1725057866750,"stop":1725057884648}

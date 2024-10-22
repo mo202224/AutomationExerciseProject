@@ -1,1 +1,0 @@
-{"uuid":"dccf2f3f-9ce4-4d94-ab4f-a80eeccf521e","name":"AutomationExerciseProject","children":["a15edc5b-1a3e-4bd1-9ff9-5483549f8c39"],"befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725051548372,"stop":1725051548372}],"start":1725051527145,"stop":1725051548372}

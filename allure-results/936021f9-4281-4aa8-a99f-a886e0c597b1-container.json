@@ -1,1 +1,0 @@
-{"uuid":"936021f9-4281-4aa8-a99f-a886e0c597b1","name":"TestCases.LoginUserWithCorrectEmailAndPassword","children":["ea4118ec-c340-44f2-bd55-d306b555f96c"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725054022511,"stop":1725054030003}],"afters":[],"start":1725054022411,"stop":1725054042018}

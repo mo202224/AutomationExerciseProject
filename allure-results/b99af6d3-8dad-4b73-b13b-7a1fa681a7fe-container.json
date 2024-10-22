@@ -1,1 +1,0 @@
-{"uuid":"b99af6d3-8dad-4b73-b13b-7a1fa681a7fe","name":"TestCases.VerifyAddressDetailsInCheckoutPage","children":["08fdc304-a14a-45d5-a334-980c99b7e6af"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725180207217,"stop":1725180213760}],"afters":[],"start":1725180207121,"stop":1725180247006}

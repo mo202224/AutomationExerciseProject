@@ -1,1 +1,0 @@
-{"uuid":"10136abb-56b4-4858-8327-25644fd54705","name":"TestCases.DownloadInvoiceAfterPurchaseOrder","children":["e054cab9-a5fe-43d9-a2e5-8db69ce4b9df"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725186071107,"stop":1725186078328}],"afters":[],"start":1725186071007,"stop":1725186097735}

@@ -1,1 +1,0 @@
-{"uuid":"1bd79b52-b94d-4b64-835b-7264301dda22","name":"TestCases.PlaceOrderRegisterwhileCheckout","children":["b9135ace-1e3b-4e8f-8c85-a9e08dd8e682"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725134160287,"stop":1725134167072}],"afters":[],"start":1725134160190,"stop":1725134196950}
